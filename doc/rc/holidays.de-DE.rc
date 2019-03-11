@@ -1,7 +1,8 @@
 ###############################################################################
 # International Holiday Data provided by Holidata.net
-# http://holidata.net/de-DE/2015.json
-# http://holidata.net/de-DE/2016.json
+# https://holidata.net/de-DE/2015.json
+# https://holidata.net/de-DE/2016.json
+# https://holidata.net/de-DE/2017.json
 #
 # Copyright 2006 - 2016, Paul Beckingham, Federico Hernandez.
 #
@@ -103,3 +104,41 @@ holiday.de-DE37.name=Zweiter Weihnachtstag
 holiday.de-DE37.date=20161226
 holiday.de-DE38.name=Silvester
 holiday.de-DE38.date=20161231
+holiday.de-DE39.name=Neujahr
+holiday.de-DE39.date=20170101
+holiday.de-DE40.name=Heilige drei Könige
+holiday.de-DE40.date=20170106
+holiday.de-DE41.name=Karfreitag
+holiday.de-DE41.date=20170414
+holiday.de-DE42.name=Ostern
+holiday.de-DE42.date=20170416
+holiday.de-DE43.name=Ostermontag
+holiday.de-DE43.date=20170417
+holiday.de-DE44.name=Erster Maifeiertag
+holiday.de-DE44.date=20170501
+holiday.de-DE45.name=Christi Himmelfahrt
+holiday.de-DE45.date=20170525
+holiday.de-DE46.name=Pfingstsonntag
+holiday.de-DE46.date=20170604
+holiday.de-DE47.name=Pfingstmontag
+holiday.de-DE47.date=20170605
+holiday.de-DE48.name=Fronleichnam
+holiday.de-DE48.date=20170615
+holiday.de-DE49.name=Mariä Himmelfahrt
+holiday.de-DE49.date=20170815
+holiday.de-DE50.name=Tag der Deutschen Einheit
+holiday.de-DE50.date=20171003
+holiday.de-DE51.name=Reformationstag
+holiday.de-DE51.date=20171031
+holiday.de-DE52.name=Allerheiligen
+holiday.de-DE52.date=20171101
+holiday.de-DE53.name=Buß- und Bettag
+holiday.de-DE53.date=20171122
+holiday.de-DE54.name=Heilig Abend
+holiday.de-DE54.date=20171224
+holiday.de-DE55.name=Weihnachtstag
+holiday.de-DE55.date=20171225
+holiday.de-DE56.name=Zweiter Weihnachtstag
+holiday.de-DE56.date=20171226
+holiday.de-DE57.name=Silvester
+holiday.de-DE57.date=20171231
