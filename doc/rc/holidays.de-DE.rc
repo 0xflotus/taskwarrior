@@ -3,6 +3,7 @@
 # https://holidata.net/de-DE/2015.json
 # https://holidata.net/de-DE/2016.json
 # https://holidata.net/de-DE/2017.json
+# https://holidata.net/de-DE/2018.json
 #
 # Copyright 2006 - 2016, Paul Beckingham, Federico Hernandez.
 #
@@ -142,3 +143,41 @@ holiday.de-DE56.name=Zweiter Weihnachtstag
 holiday.de-DE56.date=20171226
 holiday.de-DE57.name=Silvester
 holiday.de-DE57.date=20171231
+holiday.de-DE58.name=Neujahr
+holiday.de-DE58.date=20180101
+holiday.de-DE59.name=Heilige drei Könige
+holiday.de-DE59.date=20180106
+holiday.de-DE60.name=Karfreitag
+holiday.de-DE60.date=20180330
+holiday.de-DE61.name=Ostern
+holiday.de-DE61.date=20180401
+holiday.de-DE62.name=Ostermontag
+holiday.de-DE62.date=20180402
+holiday.de-DE63.name=Erster Maifeiertag
+holiday.de-DE63.date=20180501
+holiday.de-DE64.name=Christi Himmelfahrt
+holiday.de-DE64.date=20180510
+holiday.de-DE65.name=Pfingstsonntag
+holiday.de-DE65.date=20180520
+holiday.de-DE66.name=Pfingstmontag
+holiday.de-DE66.date=20180521
+holiday.de-DE67.name=Fronleichnam
+holiday.de-DE67.date=20180531
+holiday.de-DE68.name=Mariä Himmelfahrt
+holiday.de-DE68.date=20180815
+holiday.de-DE69.name=Tag der Deutschen Einheit
+holiday.de-DE69.date=20181003
+holiday.de-DE70.name=Reformationstag
+holiday.de-DE70.date=20181031
+holiday.de-DE71.name=Allerheiligen
+holiday.de-DE71.date=20181101
+holiday.de-DE72.name=Buß- und Bettag
+holiday.de-DE72.date=20181121
+holiday.de-DE73.name=Heilig Abend
+holiday.de-DE73.date=20181224
+holiday.de-DE74.name=Weihnachtstag
+holiday.de-DE74.date=20181225
+holiday.de-DE75.name=Zweiter Weihnachtstag
+holiday.de-DE75.date=20181226
+holiday.de-DE76.name=Silvester
+holiday.de-DE76.date=20181231
